@@ -1,0 +1,26 @@
+body{
+    background-color: black
+}
+#cont{
+    display: block;
+font-family: 'Segoe UI';
+font-size:920%;
+color: aqua;
+text-align: center;
+}
+#btn{
+    text-align: center;
+}
+.bt {
+    padding: 7px 20px;
+    font-size: 1.5em;
+   background-color: cornflowerblue;
+   color: white;
+  border-radius: 5em;
+  cursor: pointer;
+  transition: backgroud-color 0.25s 
+}
+.bt:hover{
+    background-color:rgb(44, 107, 225) ;
+}
+
